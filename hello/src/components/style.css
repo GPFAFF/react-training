@@ -1,0 +1,28 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.dog, .greeting p {
+  font-size: 24px;
+}
+
+button {
+  appearance: none;
+  padding: 20px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: .2s ease-out;
+}
+
+button:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #333;
+  transition: .2s ease-in;
+}
