@@ -9,13 +9,13 @@ class Greeting extends React.Component {
     return (
 
       <div className='greeting'>
-        {Salution(greeting)}
+        {Salutation(greeting)}
       </div>
     )
   }
 }
 
-function Salution(greetings) {
+function Salutation(greetings) {
   return <p>{greetings}, world </p>
 }
 

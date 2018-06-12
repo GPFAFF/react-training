@@ -16,8 +16,8 @@ class App extends React.Component {
       greeting: 'Hello World',
       photo: {
         url: "https://instagram.fsea1-1.fna.fbcdn.net/vp/8e35f2fd4826a0a61c022f39f5e3c955/5BBD928F/t51.2885-15/e35/32203161_203989477066095_4634933611248746496_n.jpg",
-        name: 'Cinco',
-        ada: 'Cinco'
+        name: 'Cori and Greg at Rose Garden',
+        ada: 'Cori and Greg at Rose Garden'
       }
     }
   }

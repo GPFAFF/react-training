@@ -13,7 +13,7 @@ class Dog extends React.Component {
       <div className='dog'>
         <div className='dog-card'>
           <img style={{width: '50%'}} className='dog card' src={url} alt={ada} />
-          <p>I'm {name}</p>
+          <p>{name}</p>
         </div>
       </div>
     )
